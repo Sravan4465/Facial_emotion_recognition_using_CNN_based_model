@@ -1,12 +1,14 @@
 # Facial_emotion_recognition_using_CNN_model
 Performing facial emotion recognition by training with custom CNN based model
 
-Facial Emotion recognition dataset contains 7 classes (angry, happy, sad, surprise, disgust, fear)
+Facial Emotion recognition dataset contains 7 classes (angry, happy, sad, surprise, disgust, fear, neutral)
 
 Performed training on the data using simple convolutional neural networks based model
 
-Model is trained for 100 epochs 
+Model is trained for 100 epochs
+
 Traing Accuracy is 57.34%
+
 Validation Accuracy is 60.8%
 
 Plot of loss and accuracy of training vs validation data for all epochs
