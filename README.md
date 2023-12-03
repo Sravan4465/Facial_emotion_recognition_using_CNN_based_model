@@ -8,6 +8,7 @@ Performed training on the data using simple convolutional neural networks based 
 Models are trained for 40 epochs
 
 |     Model       |training accuracy|test accuracy|
+|-----------------|-----------------|-------------|
 |simple CNN model |       65%       |    61.5%    |
 |    MobileNet    |       59%       |    53.3%    |
 |  Fine Tunning   |       85%       |    63.8%    |
